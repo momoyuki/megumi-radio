@@ -1,53 +1,47 @@
 {
  "format": "myradio/station-1",
- "name": "ものラジオ",
- "description": "電子工作・3Dプリンター・AI の、きのうの気になるニュースを、毎朝 90 秒で。",
- "tagline": "AI・3D 朝のニュース",
+ "name": "Megumi Radio",
+ "description": "ข่าวเช้าสั้นๆ เรื่องอนิเมะ เกม และวัฒนธรรมป๊อป อ่านโดยตัวละครบนเว็บ — ภาษาไทยและอังกฤษ",
+ "tagline": "อนิเมะ · เกม · ป๊อป เช้านี้",
  "logo": "logo.svg",
- "url": "https://monoradio102.github.io/myradio/",
- "repo": "https://github.com/monoradio102/myradio",
- "language": "ja",
+ "url": "https://momoyuki.github.io/megumi-radio/",
+ "repo": "https://github.com/momoyuki/megumi-radio",
+ "language": "th",
  "languages": [
-  "ja",
+  "th",
   "en"
  ],
  "schedule": {
   "every": "day",
-  "time": "06:10",
-  "timezone": "Asia/Tokyo"
+  "time": "07:00",
+  "timezone": "Asia/Bangkok"
  },
  "episodes": "episodes.json",
  "character": {
   "pack": "character/character.json",
   "thumbnail": "character/base.png",
-  "note": "AIで生成したキャラクターです"
+  "note": "ตัวละครชั่วคราวจากเทมเพลต myradio (จะเปลี่ยนทีหลัง)"
  },
  "credits": [
-  "声：COEIROINK:リリンちゃん"
+  "ตัวละครชั่วคราว: จากเทมเพลต myradio",
+  "เสียง: ยังไม่ตั้งค่า"
  ],
- "caster": "声：COEIROINK:リリンちゃん",
+ "caster": "Megumi Radio",
  "audio": {
   "dir": "audio",
   "keep_days": 30
  },
  "weather": true,
- "comments": {
-  "giscus": {
-   "repo": "monoradio102/myradio",
-   "repoId": "R_kgDOVjfh2A",
-   "category": "Comments",
-   "categoryId": "DIC_kwDOVjfh2M4DKdQF"
-  }
- },
  "i18n": {
   "en": {
-   "name": "Mono Radio",
-   "tagline": "Morning news on AI and 3D",
-   "description": "The news worth knowing in electronics, 3D printing and AI, every morning in 90 seconds.",
+   "name": "Megumi Radio",
+   "tagline": "Anime · games · pop, mornings",
+   "description": "A short morning briefing on anime, games, and pop culture — in Thai and English.",
    "credits": [
-    "Voice: Kokoro (af_heart)"
+    "Temporary character: from the myradio template",
+    "Voice: not set yet"
    ],
-   "caster": "Voice: Kokoro (af_heart)"
+   "caster": "Megumi Radio"
   }
  }
 }
