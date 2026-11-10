@@ -1,0 +1,221 @@
+{
+ "format": "monoradio/news-1",
+ "date": "2026-11-10",
+ "lang": "th",
+ "title": "สปาย×แฟมิลี่ซีซัน 4 และโอคารินาออฟไทม์บน Switch 2",
+ "opening": [
+  {
+   "say": "สวัสดีตอนเช้าค่ะ เมกุมิเรดิโอค่ะ วันนี้วันอังคารที่สิบพฤศจิกายน สองพันยี่สิบหก",
+   "show": "สวัสดีตอนเช้าค่ะ Megumi Radio วันนี้ 10 พ.ย. 2026"
+  },
+  {
+   "say": "วันนี้มีสามเรื่องจากโลกอนิเมะและเกม มาเล่าสั้นๆ ค่ะ",
+   "show": "วันนี้มี 3 เรื่องจากโลกอนิเมะและเกม"
+  }
+ ],
+ "news": [
+  {
+   "label": "สปาย×แฟมิลี่ ซีซัน 4 + หนัง",
+   "points": [
+    "ซีซัน 4 และภาพยนตร์ฉายโรงในปี 2027",
+    "เปิดวิชวลซีซัน 4 แล้ว",
+    "ซีซัน 3 ออกอากาศตุลาคม 2025"
+   ],
+   "details": [
+    "ทีมงานอนิเมะ Spy×Family ประกาศว่าจะมีซีซันที่ 4 และภาพยนตร์ฉายโรงในญี่ปุ่นปี 2027",
+    "พร้อมเปิดวิชวลสำหรับซีซันที่ 4",
+    "ซีซันที่ 3 ออกอากาศในเดือนตุลาคม 2025 จำนวน 13 ตอน ตามรายงานของ Anime News Network"
+   ],
+   "lines": [
+    {
+     "say": "เรื่องแรก สปายแฟมิลี่ค่ะ ทีมงานประกาศแล้วว่าจะมีซีซันสี่ และหนังฉายโรงในญี่ปุ่นปีสองพันยี่สิบเจ็ด",
+     "show": "เรื่องแรก Spy×Family — ซีซัน 4 และหนังโรงปี 2027"
+    },
+    {
+     "say": "วิชวลซีซันสี่ก็เปิดแล้ว ส่วนซีซันสามเพิ่งออกเมื่อตุลาคมปีที่แล้ว สิบสามตอนค่ะ",
+     "show": "เปิดวิชวลซีซัน 4 แล้ว — ซีซัน 3 มี 13 ตอน"
+    }
+   ],
+   "url": "https://www.animenewsnetwork.com/news/2026-11-08/spy-family-anime-gets-4th-season-theatrical-film-in-2027/.243614",
+   "link": {
+    "url": "https://www.animenewsnetwork.com/news/2026-11-08/spy-family-anime-gets-4th-season-theatrical-film-in-2027/.243614",
+    "title": "Spy×Family Anime Gets 4th Season, Theatrical Film in 2027",
+    "site": "animenewsnetwork.com",
+    "description": "The staff announced a fourth season and a new film in Japanese theaters in 2027, and revealed a visual for season 4.",
+    "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG7/cms/news.10/243614/spy4ki-teser-b2-1106-en.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "ยูรุแคมป์ ซีซัน 4 เมษา 2027",
+   "points": [
+    "ตัวอย่างหลักยืนยันเปิดเมษายน 2027",
+    "เพลงเปิดโดยอาซากะ เพลงปิดโดยเอริ ซาซากิ",
+    "กำกับโดยชิน โทซากะ ที่ FuRyu Pictures"
+   ],
+   "details": [
+    "เว็บไซต์ทางการของ Laid-Back Camp ซีซัน 4 เปิดตัวอย่างหลักและวิชวลหลัก พร้อมยืนยันออกอากาศเมษายน 2027",
+    "ตัวอย่างพรีวิวเพลงเปิด Brand New. ของ Asaka และเพลงปิด Happa no Tegami ของ Eri Sasaki",
+    "ชิน โทซากะ กลับมากำกับที่ FuRyu Pictures และมีนักพากย์หลักชุดเดิม เช่น ยูมิริ ฮานาโมริ และนาโอะ โทยามะ"
+   ],
+   "lines": [
+    {
+     "say": "ต่อมา ยูรุแคมป์ค่ะ ตัวอย่างหลักยืนยันแล้วว่าซีซันสี่จะเริ่มเมษายนสองพันยี่สิบเจ็ด",
+     "show": "ต่อมา Laid-Back Camp — ซีซัน 4 เมษา 2027"
+    },
+    {
+     "say": "เพลงเปิดโดยอาซากะ เพลงปิดโดยเอริ ซาซากิ และกำกับโดยชิน โทซากะที่ฟูริวพิกเจอร์สค่ะ",
+     "show": "เพลงธีมเปิดแล้ว — กำกับโดย Shin Tosaka ที่ FuRyu Pictures"
+    }
+   ],
+   "url": "https://www.animenewsnetwork.com/news/2026-11-06/laid-back-camp-season-4-trailer-unveils-april-2027-debut/.243588",
+   "link": {
+    "url": "https://www.animenewsnetwork.com/news/2026-11-06/laid-back-camp-season-4-trailer-unveils-april-2027-debut/.243588",
+    "title": "Laid-Back Camp Season 4's Trailer Unveils April 2027 Debut",
+    "site": "animenewsnetwork.com",
+    "description": "The main trailer and visual announce an April 2027 premiere and preview the theme songs.",
+    "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJB/cms/news.10/243588/modal-4th-2.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "เซลดา โอคารินาออฟไทม์ บน Switch 2",
+   "points": [
+    "รีเมกออก 5 พฤศจิกายน 2026",
+    "ภาพ เสียง และเกมเพลย์ปรับใหม่",
+    "อยู่ในรายการเกมเดือนนี้ของ Nintendo UK"
+   ],
+   "details": [
+    "Nintendo UK ระบุว่า The Legend of Zelda: Ocarina of Time จะมาบน Nintendo Switch 2 ในวันที่ 5 พฤศจิกายน 2026",
+    "โปรโมตว่าเป็นการรีเมกที่ปรับภาพ ซาวด์แทร็ก และเกมเพลย์ให้ทันสมัยขึ้น",
+    "เดือนเดียวกันยังมี Metaphor: ReFantazio และ Pikmin 4 Switch 2 Edition ในวันที่ 12 พฤศจิกายน"
+   ],
+   "lines": [
+    {
+     "say": "ฝั่งเกมค่ะ เดอะเลเจนด์ออฟเซลดา โอคารินาออฟไทม์ เวอร์ชันรีเมกบนสวิตช์ทู ออกวันที่ห้าพฤศจิกายน",
+     "show": "เกม: Zelda Ocarina of Time รีเมกบน Switch 2 — 5 พ.ย."
+    },
+    {
+     "say": "ปรับภาพ เพลงประกอบ และเกมเพลย์ใหม่ ตามนิวส์จากนินเทนโดยูเคค่ะ",
+     "show": "ปรับภาพ เสียง และเกมเพลย์ — แหล่งข่าว Nintendo UK"
+    }
+   ],
+   "url": "https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html",
+   "link": {
+    "url": "https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html",
+    "title": "Upcoming Games – November 2026",
+    "site": "nintendo.com",
+    "description": "Nintendo UK lists The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 on November 5, among other November releases.",
+    "image": "https://www.nintendo.com/eu/media/images/news_12/2026/november_50/upcoming_games___november_2026/16x9_NSwitch2_UpcomingGames_112026_UK_en_image1280w.jpg",
+    "icon": null
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "ไฮไลต์วันนี้คือสปายแฟมิลี่ ที่ประกาศทั้งซีซันสี่และหนังโรงปีสองพันยี่สิบเจ็ดค่ะ",
+   "show": "ไฮไลต์: Spy×Family ซีซัน 4 + หนังปี 2027"
+  },
+  {
+   "say": "เมกุมิเรดิโอจบการออกอากาศค่ะ แล้วเจอกันพรุ่งนี้นะคะ",
+   "show": "Megumi Radio จบแล้ว แล้วเจอกันพรุ่งนี้นะคะ"
+  }
+ ],
+ "highlight": 0,
+ "seconds": 60.83,
+ "lines_timed": [
+  {
+   "start": 0.4,
+   "end": 6.544,
+   "show": "สวัสดีตอนเช้าค่ะ Megumi Radio วันนี้ 10 พ.ย. 2026",
+   "part": 0
+  },
+  {
+   "start": 6.844,
+   "end": 10.996,
+   "show": "วันนี้มี 3 เรื่องจากโลกอนิเมะและเกม",
+   "part": 0
+  },
+  {
+   "start": 11.546,
+   "end": 18.17,
+   "show": "เรื่องแรก Spy×Family — ซีซัน 4 และหนังโรงปี 2027",
+   "part": 1
+  },
+  {
+   "start": 18.47,
+   "end": 24.542,
+   "show": "เปิดวิชวลซีซัน 4 แล้ว — ซีซัน 3 มี 13 ตอน",
+   "part": 1
+  },
+  {
+   "start": 25.092,
+   "end": 30.588,
+   "show": "ต่อมา Laid-Back Camp — ซีซัน 4 เมษา 2027",
+   "part": 2
+  },
+  {
+   "start": 30.888,
+   "end": 37.176,
+   "show": "เพลงธีมเปิดแล้ว — กำกับโดย Shin Tosaka ที่ FuRyu Pictures",
+   "part": 2
+  },
+  {
+   "start": 37.726,
+   "end": 44.086,
+   "show": "เกม: Zelda Ocarina of Time รีเมกบน Switch 2 — 5 พ.ย.",
+   "part": 3
+  },
+  {
+   "start": 44.386,
+   "end": 48.97,
+   "show": "ปรับภาพ เสียง และเกมเพลย์ — แหล่งข่าว Nintendo UK",
+   "part": 3
+  },
+  {
+   "start": 49.52,
+   "end": 55.52,
+   "show": "ไฮไลต์: Spy×Family ซีซัน 4 + หนังปี 2027",
+   "part": 4
+  },
+  {
+   "start": 55.82,
+   "end": 60.38,
+   "show": "Megumi Radio จบแล้ว แล้วเจอกันพรุ่งนี้นะคะ",
+   "part": 4
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.4,
+   "end": 10.996
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 11.546,
+   "end": 24.542
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 25.092,
+   "end": 37.176
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 37.726,
+   "end": 48.97
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 49.52,
+   "end": 60.83
+  }
+ ],
+ "made_at": "2026-11-10T08:45:00+07:00"
+}

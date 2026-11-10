@@ -1,0 +1,49 @@
+{
+ "format": "myradio/station-1",
+ "name": "Megumi Radio",
+ "description": "ข่าวเช้าสั้นๆ เรื่องอนิเมะ เกม และวัฒนธรรมป๊อป อ่านโดยตัวละครบนเว็บ — ภาษาไทยและอังกฤษ",
+ "tagline": "อนิเมะ · เกม · ป๊อป เช้านี้",
+ "logo": "logo.svg",
+ "url": "https://momoyuki.github.io/megumi-radio/",
+ "repo": "https://github.com/momoyuki/megumi-radio",
+ "language": "th",
+ "languages": [
+  "th",
+  "en"
+ ],
+ "schedule": {
+  "every": "day",
+  "time": "07:00",
+  "timezone": "Asia/Bangkok"
+ },
+ "episodes": "episodes.json",
+ "character": {
+  "pack": "character/character.json",
+  "thumbnail": "character/base.png",
+  "note": "ตัวละครชั่วคราวจากเทมเพลต myradio (จะเปลี่ยนทีหลัง)"
+ },
+ "credits": [
+  "ตัวละครชั่วคราว: จากเทมเพลต myradio",
+  "เสียงไทย: Microsoft Edge TTS — PremwadeeNeural",
+  "เสียงอังกฤษ: Microsoft Edge TTS — JennyNeural"
+ ],
+ "caster": "Megumi",
+ "audio": {
+  "dir": "audio",
+  "keep_days": 30
+ },
+ "weather": true,
+ "i18n": {
+  "en": {
+   "name": "Megumi Radio",
+   "tagline": "Anime · games · pop, mornings",
+   "description": "A short morning briefing on anime, games, and pop culture — in Thai and English.",
+   "credits": [
+    "Temporary character: from the myradio template",
+    "Thai voice: Microsoft Edge TTS — PremwadeeNeural",
+    "English voice: Microsoft Edge TTS — JennyNeural"
+   ],
+   "caster": "Megumi"
+  }
+ }
+}

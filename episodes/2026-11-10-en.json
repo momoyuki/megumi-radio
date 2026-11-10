@@ -1,0 +1,221 @@
+{
+ "format": "monoradio/news-1",
+ "date": "2026-11-10",
+ "lang": "en",
+ "title": "Spy×Family Season 4 and Ocarina of Time on Switch 2",
+ "opening": [
+  {
+   "say": "Good morning, and welcome to Megumi Radio. It's Tuesday, November tenth, twenty twenty-six.",
+   "show": "Good morning — Megumi Radio. Tuesday, November 10, 2026."
+  },
+  {
+   "say": "Today we have three short stories from anime and games.",
+   "show": "Three short stories from anime and games."
+  }
+ ],
+ "news": [
+  {
+   "label": "Spy×Family Season 4 + Film",
+   "points": [
+    "Season 4 and a theatrical film for 2027",
+    "Season 4 visual revealed",
+    "Season 3 aired in October 2025"
+   ],
+   "details": [
+    "The Spy×Family anime staff announced a fourth season and a new film in Japanese theaters in 2027.",
+    "They also revealed a visual for the fourth season.",
+    "Season 3 premiered in October 2025 and ran for 13 episodes, according to Anime News Network."
+   ],
+   "lines": [
+    {
+     "say": "First up, Spy Family. The staff confirmed a fourth season, and a new film in Japanese theaters in twenty twenty-seven.",
+     "show": "First: Spy×Family — Season 4 and a 2027 theatrical film."
+    },
+    {
+     "say": "They also revealed a Season four visual. Season three aired last October with thirteen episodes.",
+     "show": "Season 4 visual is out — Season 3 had 13 episodes."
+    }
+   ],
+   "url": "https://www.animenewsnetwork.com/news/2026-11-08/spy-family-anime-gets-4th-season-theatrical-film-in-2027/.243614",
+   "link": {
+    "url": "https://www.animenewsnetwork.com/news/2026-11-08/spy-family-anime-gets-4th-season-theatrical-film-in-2027/.243614",
+    "title": "Spy×Family Anime Gets 4th Season, Theatrical Film in 2027",
+    "site": "animenewsnetwork.com",
+    "description": "The staff announced a fourth season and a new film in Japanese theaters in 2027, and revealed a visual for season 4.",
+    "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG7/cms/news.10/243614/spy4ki-teser-b2-1106-en.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "Laid-Back Camp Season 4",
+   "points": [
+    "Main trailer locks April 2027 debut",
+    "Themes by Asaka and Eri Sasaki",
+    "Shin Tosaka directs at FuRyu Pictures"
+   ],
+   "details": [
+    "The official Laid-Back Camp Season 4 site posted the main trailer and visual, announcing an April 2027 premiere.",
+    "The trailer previews Asaka's opening Brand New. and Eri Sasaki's ending Happa no Tegami.",
+    "Shin Tosaka returns to direct at FuRyu Pictures, with returning cast including Yumiri Hanamori and Nao Toyama."
+   ],
+   "lines": [
+    {
+     "say": "Next, Laid-Back Camp. The main trailer confirms Season four will premiere in April twenty twenty-seven.",
+     "show": "Next: Laid-Back Camp Season 4 — April 2027."
+    },
+    {
+     "say": "Asaka sings the opening, Eri Sasaki the ending, and Shin Tosaka directs again at FuRyu Pictures.",
+     "show": "Theme songs previewed — directed by Shin Tosaka at FuRyu Pictures."
+    }
+   ],
+   "url": "https://www.animenewsnetwork.com/news/2026-11-06/laid-back-camp-season-4-trailer-unveils-april-2027-debut/.243588",
+   "link": {
+    "url": "https://www.animenewsnetwork.com/news/2026-11-06/laid-back-camp-season-4-trailer-unveils-april-2027-debut/.243588",
+    "title": "Laid-Back Camp Season 4's Trailer Unveils April 2027 Debut",
+    "site": "animenewsnetwork.com",
+    "description": "The main trailer and visual announce an April 2027 premiere and preview the theme songs.",
+    "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJB/cms/news.10/243588/modal-4th-2.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "Ocarina of Time on Switch 2",
+   "points": [
+    "Remake launches November 5, 2026",
+    "Reimagined visuals, soundtrack, gameplay",
+    "Listed in Nintendo UK's November lineup"
+   ],
+   "details": [
+    "Nintendo UK lists The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 on November 5, 2026.",
+    "The post describes a remake with reimagined visuals, a refreshed soundtrack, and modernised gameplay.",
+    "The same November slate also includes Metaphor: ReFantazio and Pikmin 4 Switch 2 Edition on November 12."
+   ],
+   "lines": [
+    {
+     "say": "On the games side, The Legend of Zelda: Ocarina of Time remake arrives on Switch two on November fifth.",
+     "show": "Games: Zelda Ocarina of Time remake on Switch 2 — Nov 5."
+    },
+    {
+     "say": "Nintendo U K says it brings reimagined visuals, a refreshed soundtrack, and modernised gameplay.",
+     "show": "Updated visuals, music, and gameplay — via Nintendo UK."
+    }
+   ],
+   "url": "https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html",
+   "link": {
+    "url": "https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html",
+    "title": "Upcoming Games – November 2026",
+    "site": "nintendo.com",
+    "description": "Nintendo UK lists The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 on November 5, among other November releases.",
+    "image": "https://www.nintendo.com/eu/media/images/news_12/2026/november_50/upcoming_games___november_2026/16x9_NSwitch2_UpcomingGames_112026_UK_en_image1280w.jpg",
+    "icon": null
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "Today's highlight is Spy Family confirming both Season four and a twenty twenty-seven theatrical film.",
+   "show": "Highlight: Spy×Family Season 4 + a 2027 film."
+  },
+  {
+   "say": "That's all from Megumi Radio. See you tomorrow!",
+   "show": "That's all from Megumi Radio. See you tomorrow!"
+  }
+ ],
+ "highlight": 0,
+ "seconds": 71.03,
+ "lines_timed": [
+  {
+   "start": 0.4,
+   "end": 7.792,
+   "show": "Good morning — Megumi Radio. Tuesday, November 10, 2026.",
+   "part": 0
+  },
+  {
+   "start": 8.092,
+   "end": 11.956,
+   "show": "Three short stories from anime and games.",
+   "part": 0
+  },
+  {
+   "start": 12.506,
+   "end": 21.146,
+   "show": "First: Spy×Family — Season 4 and a 2027 theatrical film.",
+   "part": 1
+  },
+  {
+   "start": 21.446,
+   "end": 28.526,
+   "show": "Season 4 visual is out — Season 3 had 13 episodes.",
+   "part": 1
+  },
+  {
+   "start": 29.076,
+   "end": 36.708,
+   "show": "Next: Laid-Back Camp Season 4 — April 2027.",
+   "part": 2
+  },
+  {
+   "start": 37.008,
+   "end": 44.088,
+   "show": "Theme songs previewed — directed by Shin Tosaka at FuRyu Pictures.",
+   "part": 2
+  },
+  {
+   "start": 44.638,
+   "end": 51.718,
+   "show": "Games: Zelda Ocarina of Time remake on Switch 2 — Nov 5.",
+   "part": 3
+  },
+  {
+   "start": 52.018,
+   "end": 58.786,
+   "show": "Updated visuals, music, and gameplay — via Nintendo UK.",
+   "part": 3
+  },
+  {
+   "start": 59.336,
+   "end": 65.816,
+   "show": "Highlight: Spy×Family Season 4 + a 2027 film.",
+   "part": 4
+  },
+  {
+   "start": 66.116,
+   "end": 70.58,
+   "show": "That's all from Megumi Radio. See you tomorrow!",
+   "part": 4
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.4,
+   "end": 11.956
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 12.506,
+   "end": 28.526
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 29.076,
+   "end": 44.088
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 44.638,
+   "end": 58.786
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 59.336,
+   "end": 71.03
+  }
+ ],
+ "made_at": "2026-11-10T08:45:00+07:00"
+}
