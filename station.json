@@ -24,9 +24,10 @@
  },
  "credits": [
   "ตัวละครชั่วคราว: จากเทมเพลต myradio",
-  "เสียง: ยังไม่ตั้งค่า"
+  "เสียงไทย: Microsoft Edge TTS — PremwadeeNeural",
+  "เสียงอังกฤษ: Microsoft Edge TTS — JennyNeural"
  ],
- "caster": "Megumi Radio",
+ "caster": "Megumi",
  "audio": {
   "dir": "audio",
   "keep_days": 30
@@ -39,9 +40,10 @@
    "description": "A short morning briefing on anime, games, and pop culture — in Thai and English.",
    "credits": [
     "Temporary character: from the myradio template",
-    "Voice: not set yet"
+    "Thai voice: Microsoft Edge TTS — PremwadeeNeural",
+    "English voice: Microsoft Edge TTS — JennyNeural"
    ],
-   "caster": "Megumi Radio"
+   "caster": "Megumi"
   }
  }
 }

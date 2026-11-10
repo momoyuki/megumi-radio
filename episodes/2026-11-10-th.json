@@ -122,25 +122,100 @@
   }
  ],
  "highlight": 0,
- "seconds": 78.0,
+ "seconds": 60.83,
  "lines_timed": [
-  { "start": 0.5, "end": 7.2, "show": "สวัสดีตอนเช้าค่ะ Megumi Radio วันนี้ 10 พ.ย. 2026", "part": 0 },
-  { "start": 7.5, "end": 12.8, "show": "วันนี้มี 3 เรื่องจากโลกอนิเมะและเกม", "part": 0 },
-  { "start": 13.2, "end": 22.0, "show": "เรื่องแรก Spy×Family — ซีซัน 4 และหนังโรงปี 2027", "part": 1 },
-  { "start": 22.3, "end": 29.5, "show": "เปิดวิชวลซีซัน 4 แล้ว — ซีซัน 3 มี 13 ตอน", "part": 1 },
-  { "start": 30.0, "end": 38.0, "show": "ต่อมา Laid-Back Camp — ซีซัน 4 เมษา 2027", "part": 2 },
-  { "start": 38.3, "end": 47.0, "show": "เพลงธีมเปิดแล้ว — กำกับโดย Shin Tosaka ที่ FuRyu Pictures", "part": 2 },
-  { "start": 47.5, "end": 57.0, "show": "เกม: Zelda Ocarina of Time รีเมกบน Switch 2 — 5 พ.ย.", "part": 3 },
-  { "start": 57.3, "end": 64.5, "show": "ปรับภาพ เสียง และเกมเพลย์ — แหล่งข่าว Nintendo UK", "part": 3 },
-  { "start": 65.0, "end": 72.5, "show": "ไฮไลต์: Spy×Family ซีซัน 4 + หนังปี 2027", "part": 4 },
-  { "start": 72.8, "end": 77.8, "show": "Megumi Radio จบแล้ว แล้วเจอกันพรุ่งนี้นะคะ", "part": 4 }
+  {
+   "start": 0.4,
+   "end": 6.544,
+   "show": "สวัสดีตอนเช้าค่ะ Megumi Radio วันนี้ 10 พ.ย. 2026",
+   "part": 0
+  },
+  {
+   "start": 6.844,
+   "end": 10.996,
+   "show": "วันนี้มี 3 เรื่องจากโลกอนิเมะและเกม",
+   "part": 0
+  },
+  {
+   "start": 11.546,
+   "end": 18.17,
+   "show": "เรื่องแรก Spy×Family — ซีซัน 4 และหนังโรงปี 2027",
+   "part": 1
+  },
+  {
+   "start": 18.47,
+   "end": 24.542,
+   "show": "เปิดวิชวลซีซัน 4 แล้ว — ซีซัน 3 มี 13 ตอน",
+   "part": 1
+  },
+  {
+   "start": 25.092,
+   "end": 30.588,
+   "show": "ต่อมา Laid-Back Camp — ซีซัน 4 เมษา 2027",
+   "part": 2
+  },
+  {
+   "start": 30.888,
+   "end": 37.176,
+   "show": "เพลงธีมเปิดแล้ว — กำกับโดย Shin Tosaka ที่ FuRyu Pictures",
+   "part": 2
+  },
+  {
+   "start": 37.726,
+   "end": 44.086,
+   "show": "เกม: Zelda Ocarina of Time รีเมกบน Switch 2 — 5 พ.ย.",
+   "part": 3
+  },
+  {
+   "start": 44.386,
+   "end": 48.97,
+   "show": "ปรับภาพ เสียง และเกมเพลย์ — แหล่งข่าว Nintendo UK",
+   "part": 3
+  },
+  {
+   "start": 49.52,
+   "end": 55.52,
+   "show": "ไฮไลต์: Spy×Family ซีซัน 4 + หนังปี 2027",
+   "part": 4
+  },
+  {
+   "start": 55.82,
+   "end": 60.38,
+   "show": "Megumi Radio จบแล้ว แล้วเจอกันพรุ่งนี้นะคะ",
+   "part": 4
+  }
  ],
  "segments": [
-  { "kind": "opening", "index": null, "start": 0.5, "end": 13.2 },
-  { "kind": "news", "index": 0, "start": 13.2, "end": 30.0 },
-  { "kind": "news", "index": 1, "start": 30.0, "end": 47.5 },
-  { "kind": "news", "index": 2, "start": 47.5, "end": 65.0 },
-  { "kind": "closing", "index": null, "start": 65.0, "end": 78.0 }
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.4,
+   "end": 10.996
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 11.546,
+   "end": 24.542
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 25.092,
+   "end": 37.176
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 37.726,
+   "end": 48.97
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 49.52,
+   "end": 60.83
+  }
  ],
  "made_at": "2026-11-10T08:45:00+07:00"
 }
